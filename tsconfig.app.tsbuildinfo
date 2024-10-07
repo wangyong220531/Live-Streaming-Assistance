@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/babynamecard/index.tsx","./src/components/card/index.tsx","./src/components/home/index.tsx","./src/components/redirect/index.tsx","./src/pages/babynaming/index.tsx","./src/pages/notfound/index.tsx","./src/pages/owneravatorcustomize/index.tsx"],"version":"5.6.2"}
